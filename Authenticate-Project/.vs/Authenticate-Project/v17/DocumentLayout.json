@@ -1,7 +1,68 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D289E197-C5E5-4ABA-991F-11F73FB14A05}|Test-Authenticate-Project\\Test-Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\test-authenticate-project\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D289E197-C5E5-4ABA-991F-11F73FB14A05}|Test-Authenticate-Project\\Test-Authenticate-Project.csproj|solutionrelative:test-authenticate-project\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D289E197-C5E5-4ABA-991F-11F73FB14A05}|Test-Authenticate-Project\\Test-Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\test-authenticate-project\\securityvulnerabilitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D289E197-C5E5-4ABA-991F-11F73FB14A05}|Test-Authenticate-Project\\Test-Authenticate-Project.csproj|solutionrelative:test-authenticate-project\\securityvulnerabilitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\authenticate-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|solutionrelative:authenticate-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\authenticate-project\\safevault\\api\\data\\safevaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|solutionrelative:authenticate-project\\safevault\\api\\data\\safevaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\authenticate-project\\safevault\\api\\data\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|solutionrelative:authenticate-project\\safevault\\api\\data\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D289E197-C5E5-4ABA-991F-11F73FB14A05}|Test-Authenticate-Project\\Test-Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\test-authenticate-project\\test-authenticate-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D289E197-C5E5-4ABA-991F-11F73FB14A05}|Test-Authenticate-Project\\Test-Authenticate-Project.csproj|solutionrelative:test-authenticate-project\\test-authenticate-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D289E197-C5E5-4ABA-991F-11F73FB14A05}|Test-Authenticate-Project\\Test-Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\test-authenticate-project\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D289E197-C5E5-4ABA-991F-11F73FB14A05}|Test-Authenticate-Project\\Test-Authenticate-Project.csproj|solutionrelative:test-authenticate-project\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\authenticate-project\\authenticate-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|solutionrelative:authenticate-project\\authenticate-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\authenticate-project\\controllers\\financialrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|solutionrelative:authenticate-project\\controllers\\financialrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\authenticate-project\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|solutionrelative:authenticate-project\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\authenticate-project\\safevault\\api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|solutionrelative:authenticate-project\\safevault\\api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\authenticate-project\\safevault\\api\\models\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|solutionrelative:authenticate-project\\safevault\\api\\models\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\authenticate-project\\safevault\\api\\filters\\sanitizestringsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|solutionrelative:authenticate-project\\safevault\\api\\filters\\sanitizestringsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\authenticate-project\\safevault\\api\\security\\inputsanitizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|solutionrelative:authenticate-project\\safevault\\api\\security\\inputsanitizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|d:\\practice\\authenticate-project\\authenticate-project\\authenticate-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9F676A4-39C8-4111-815C-5A9CDF724ED8}|Authenticate-Project\\Authenticate-Project.csproj|solutionrelative:authenticate-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +79,201 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityVulnerabilityTests.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Test-Authenticate-Project\\SecurityVulnerabilityTests.cs",
+              "RelativeDocumentMoniker": "Test-Authenticate-Project\\SecurityVulnerabilityTests.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Test-Authenticate-Project\\SecurityVulnerabilityTests.cs",
+              "RelativeToolTip": "Test-Authenticate-Project\\SecurityVulnerabilityTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:08:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Test-Authenticate-Project\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "Test-Authenticate-Project\\CustomWebApplicationFactory.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Test-Authenticate-Project\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "Test-Authenticate-Project\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:07:26.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test-Authenticate-Project",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Test-Authenticate-Project\\Test-Authenticate-Project.csproj",
+              "RelativeDocumentMoniker": "Test-Authenticate-Project\\Test-Authenticate-Project.csproj",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Test-Authenticate-Project\\Test-Authenticate-Project.csproj",
+              "RelativeToolTip": "Test-Authenticate-Project\\Test-Authenticate-Project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T12:06:20.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Test-Authenticate-Project\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test-Authenticate-Project\\UnitTest1.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Test-Authenticate-Project\\UnitTest1.cs",
+              "RelativeToolTip": "Test-Authenticate-Project\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:05:07.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinancialRecordsController.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\Controllers\\FinancialRecordsController.cs",
+              "RelativeDocumentMoniker": "Authenticate-Project\\Controllers\\FinancialRecordsController.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\Controllers\\FinancialRecordsController.cs",
+              "RelativeToolTip": "Authenticate-Project\\Controllers\\FinancialRecordsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:49:27.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Authenticate-Project\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Authenticate-Project\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:49:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Authenticate-Project\\SafeVault\\Api\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Services\\AuthService.cs",
+              "RelativeToolTip": "Authenticate-Project\\SafeVault\\Api\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:46:56.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SafeVaultDbContext.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Data\\SafeVaultDbContext.cs",
+              "RelativeDocumentMoniker": "Authenticate-Project\\SafeVault\\Api\\Data\\SafeVaultDbContext.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Data\\SafeVaultDbContext.cs",
+              "RelativeToolTip": "Authenticate-Project\\SafeVault\\Api\\Data\\SafeVaultDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:46:32.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Data\\Entities.cs",
+              "RelativeDocumentMoniker": "Authenticate-Project\\SafeVault\\Api\\Data\\Entities.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Data\\Entities.cs",
+              "RelativeToolTip": "Authenticate-Project\\SafeVault\\Api\\Data\\Entities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:46:04.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Requests.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Models\\Requests.cs",
+              "RelativeDocumentMoniker": "Authenticate-Project\\SafeVault\\Api\\Models\\Requests.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Models\\Requests.cs",
+              "RelativeToolTip": "Authenticate-Project\\SafeVault\\Api\\Models\\Requests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:45:29.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SanitizeStringsFilter.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Filters\\SanitizeStringsFilter.cs",
+              "RelativeDocumentMoniker": "Authenticate-Project\\SafeVault\\Api\\Filters\\SanitizeStringsFilter.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Filters\\SanitizeStringsFilter.cs",
+              "RelativeToolTip": "Authenticate-Project\\SafeVault\\Api\\Filters\\SanitizeStringsFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:44:32.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputSanitizer.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Security\\InputSanitizer.cs",
+              "RelativeDocumentMoniker": "Authenticate-Project\\SafeVault\\Api\\Security\\InputSanitizer.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\SafeVault\\Api\\Security\\InputSanitizer.cs",
+              "RelativeToolTip": "Authenticate-Project\\SafeVault\\Api\\Security\\InputSanitizer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:43:38.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Authenticate-Project\\appsettings.json",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\appsettings.json",
+              "RelativeToolTip": "Authenticate-Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T11:41:24.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\Program.cs",
+              "RelativeDocumentMoniker": "Authenticate-Project\\Program.cs",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\Program.cs",
+              "RelativeToolTip": "Authenticate-Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:04:21.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Authenticate-Project",
+              "DocumentMoniker": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project.csproj",
+              "RelativeDocumentMoniker": "Authenticate-Project\\Authenticate-Project.csproj",
+              "ToolTip": "D:\\Practice\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project\\Authenticate-Project.csproj",
+              "RelativeToolTip": "Authenticate-Project\\Authenticate-Project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T11:40:51.81Z",
+              "EditorCaption": ""
             }
           ]
         }

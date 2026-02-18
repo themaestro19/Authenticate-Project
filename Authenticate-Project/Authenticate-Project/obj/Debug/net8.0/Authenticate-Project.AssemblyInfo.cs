@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Authenticate-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+252049cc7749a554d63056fc007b0310030c279d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Authenticate-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Authenticate-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
